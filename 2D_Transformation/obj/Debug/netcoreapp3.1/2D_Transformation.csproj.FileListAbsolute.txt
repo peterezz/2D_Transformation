@@ -1,0 +1,15 @@
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\bin\Debug\netcoreapp3.1\2D_Transformation.exe
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\bin\Debug\netcoreapp3.1\2D_Transformation.deps.json
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\bin\Debug\netcoreapp3.1\2D_Transformation.runtimeconfig.json
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\bin\Debug\netcoreapp3.1\2D_Transformation.runtimeconfig.dev.json
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\bin\Debug\netcoreapp3.1\2D_Transformation.dll
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\bin\Debug\netcoreapp3.1\2D_Transformation.pdb
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\obj\Debug\netcoreapp3.1\2D_Transformation.csprojAssemblyReference.cache
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\obj\Debug\netcoreapp3.1\_2D_Transformation.Form1.resources
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\obj\Debug\netcoreapp3.1\2D_Transformation.csproj.GenerateResource.cache
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\obj\Debug\netcoreapp3.1\2D_Transformation.AssemblyInfoInputs.cache
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\obj\Debug\netcoreapp3.1\2D_Transformation.AssemblyInfo.cs
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\obj\Debug\netcoreapp3.1\2D_Transformation.csproj.CoreCompileInputs.cache
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\obj\Debug\netcoreapp3.1\2D_Transformation.dll
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\obj\Debug\netcoreapp3.1\2D_Transformation.pdb
+D:\mySubjects\second term\graphics\2D_Transformation\2D_Transformation\obj\Debug\netcoreapp3.1\2D_Transformation.genruntimeconfig.cache
